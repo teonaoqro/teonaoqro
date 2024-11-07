@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width: 400px;
+
+}
+tr,td{
+    border: 3px solid orange;
+}
+tr{
+    color:blue;
+
+}
+tr :nth-child(even){
+    background-color: black;
+}
+tr :nth-child(odd){background-color: brown;}

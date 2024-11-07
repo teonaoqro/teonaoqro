@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    width: 500px;
+}
+tr{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
