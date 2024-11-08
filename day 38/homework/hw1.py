@@ -13,3 +13,7 @@ def calculator(num1, num2, action):
             return num1 / num2
     else:
         return "Error: Invalid operator"
+print(calculator(3,6,"+"))
+print(calculator(44,6,"-"))
+print(calculator(222,333,"*"))
+print(calculator(123,45,"/"))
