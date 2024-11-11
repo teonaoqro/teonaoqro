@@ -1,0 +1,39 @@
+#ol1{
+    list-style-type:upper-alpha ;
+}
+#ol2{
+    list-style-type:upper-alpha;
+    list-style-position: inside;
+}
+#ol3{
+    list-style-type: upper-alpha;
+}
+#ol4{
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+#ol5{
+    list-style-type: upper-alpha;
+    list-style-image:none;
+}
+#ul1{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+#ul2{
+    list-style-type: square;
+    list-style-position: inside;
+}
+#ul3{
+    list-style-type: decimal;
+    list-style-position: outside;
+}
+#ul4{
+    list-style-type: georgian;
+    list-style-position: inside;
+}
+#ul5{
+    list-style-type: lower-roman;
+    list-style-position: outside;
+    list-style-image: none;
+}

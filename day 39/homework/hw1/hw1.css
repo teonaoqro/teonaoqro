@@ -1,0 +1,12 @@
+#mx2{
+   display: block;
+   margin: 25%;
+}
+#mx3{
+    display: inline-flex;
+    margin: 50%;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKezO8N4nORxL8X78TncTHyQ4tWgGcLzSEg&s);
+    background-position: 100%;
+}

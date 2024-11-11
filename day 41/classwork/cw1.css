@@ -1,0 +1,25 @@
+#l1{
+    list-style-type: disc;
+    list-style-position: inside;
+    list-style-image: url(https://www.lit.ge//shop/uploads/shop_product_image_1840.jpg);
+}
+#l2{
+    list-style-type:circle;
+    list-style-position: outside;
+    list-style-image: none;
+}
+#l3{
+    list-style-type: none;
+    list-style-position: inside;
+    list-style-image: url(https://www.lit.ge//shop/uploads/shop_product_image_173731.jpg);
+}
+#l4{
+    list-style-type: upper-roman;
+    list-style-position: inherit;
+    list-style-image: url(https://img.marketer.ge/2023/02/1-89-758x398.jpg);
+}
+#l5{
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: none;
+}
